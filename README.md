@@ -7,5 +7,6 @@ OCR de fotografias de contadores de água.
 4. O script cria dois ficheiros: um *.csv e um *.json
 
 Exemplo de uma imagem:  
-[Uma das fotografias da coleção](images/your-image.png)
+[Uma das fotografias da coleção](images/20250918_145357.jpg)  
+
 
