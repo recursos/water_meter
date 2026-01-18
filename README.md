@@ -9,4 +9,8 @@ OCR de fotografias de contadores de água.
 Exemplo de uma imagem:  
 [Uma das fotografias da coleção](./images/20250918_145357.jpg)  
 
+<picture>
+  <img alt="Exemplo de uma foto do mostrador" src="images/20250918_145357.jpg" width="188" height="263">
+</picture>
+
 
