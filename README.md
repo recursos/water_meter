@@ -12,5 +12,7 @@ Exemplo de uma imagem:
 <picture>
   <img alt="Exemplo de uma foto do mostrador" src="images/20250918_145357.jpg" width="188" height="263">
 </picture>
-
+<picture>
+  <img alt="Learn OpenCV with Python by Examples" src="images/OpenCV_Python.png" width="188" height="263">
+</picture>
 
