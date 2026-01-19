@@ -32,7 +32,7 @@ Exemplo de uma imagem:
 </picture>
 
 <picture>
-  <source srcset="/path/to/image.webp" type="image/webp">
+  <source srcset="/images/20250917_102601.webp" type="image/webp">
   <img src="/images/20250917_102601.webp" alt="">
   <p>"aqui uma webp com type"</p>
 </picture>
