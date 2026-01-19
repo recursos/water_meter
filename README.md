@@ -11,10 +11,7 @@ Exemplo de uma imagem:
 ![Uma das fotografias da coleção png OK](./images/20250918_145357_612x816.png)  
 <p>Uma das fotografias da coleção png OK</p>
 
-<picture>
-  <img alt="Exemplo de uma foto NÃO É do mostrador" src="images/20250918_145357.jpg" width="188" height="263">
-  <p>"Exemplo de uma foto NÃO É do mostrador"</p>
-</picture>
+
   
 <picture>
   <img alt="Aqui uma PNG com  width=188 height=263" src="images/OpenCV_Python.png" width="188" height="263">
@@ -36,5 +33,13 @@ Exemplo de uma imagem:
   <img src="/images/20250917_102601.webp" alt="">
   <p>"aqui uma webp com type"</p>
 </picture>
+
+<figure>
+  <source srcset="/images/20250917_102601.webp" type="image/webp">
+  <img src="/images/20250917_102601.webp" alt="">
+</picture>
+   <figcaption>A webp image here</figcaption>
+</figure>
+  
 
 
