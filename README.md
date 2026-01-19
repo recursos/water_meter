@@ -18,15 +18,23 @@ Exemplo de uma imagem:
   
 <picture>
   <img alt="Aqui uma PNG com  width=188 height=263" src="images/OpenCV_Python.png" width="188" height="263">
-  <p>="Aqui uma PNG com  width=188 height=263"</p>
+  <p>"Aqui uma PNG com  width=188 height=263"</p>
 </picture>
 
   <picture>
   <img alt="Uma PNG sem width, height" src="images/20250918_145357.png">
+    <p>"Uma PNG sem width, height"</p>
 </picture>
   
 <picture>
   <img alt="Uma PNG 612x816." src="images/20250918_145357_612x816.png" width="188" height="263">
+<p>"Uma PNG 612x816."</p>
 </picture>
+
 <picture>
+  <source srcset="/path/to/image.webp" type="image/webp">
+  <img src="/images/20250917_102601.webp" alt="">
+  <p>"aqui uma webp com type"</p>
+</picture>
+
 
