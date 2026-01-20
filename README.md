@@ -17,11 +17,6 @@ Exemplo de uma imagem:
   <img alt="Aqui uma PNG com  width=188 height=263" src="images/OpenCV_Python.png" width="188" height="263">
   <p>"Aqui uma PNG com  width=188 height=263"</p>
 </picture>
-
-  <picture>
-  <img alt="Uma PNG sem width, height" src="images/20250918_145357.png">
-    <p>"Uma PNG sem width, height"</p>
-</picture>
   
 <picture>
   <img alt="Uma PNG 612x816." src="images/20250918_145357_612x816.png" width="188" height="263">
@@ -39,6 +34,15 @@ Exemplo de uma imagem:
   <img src="/images/20250917_102601.webp" alt="">
 </picture>
    <figcaption>A webp image here</figcaption>
+</figure>
+
+Aqui conversa e parágrafo.  
+
+<figure>
+  <source srcset="/images/Captura de ecrã 2026-01-20 113706.png" type="image/ong">
+  <img src="/images/Captura de ecrã 2026-01-20 113706.png" alt="Fotos no folder" width="188">
+</picture>
+   <figcaption>A pasta com n fotografias</figcaption>
 </figure>
   
 
