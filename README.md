@@ -24,3 +24,17 @@ Foram tiradas com telemóvel seguuro manualmente, em más condições de luz, e 
 Idealmente deve ser usada uma câmara estável, sempre na mesma posição e com iluminação decente.  
 As fotos devem ser feitas a intervalos regulares.
 
+## Sobre o OCR
+O Windows tem uma ferramenta nativa que faz um bom OCR.  
+No meu caso, a ferramenta está aqui:  
+```python
+p1 = subprocess.Popen(
+  "C:\\Program Files\\WindowsApps\\
+Microsoft.ScreenSketch_11.2510.31.0_x64__8wekyb3d8bbwe\\  
+SnippingTool\\SnippingTool.exe"
+)
+```
+Quando aberta, a janela da app mostra o longo título:  
+"Ferramenta de recorte de fotografias"  
+(a app "Fotos" também faz OCR mas por enquanto muito pior)  
+
