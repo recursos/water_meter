@@ -19,7 +19,7 @@ OCR de fotografias de contadores de água.
 7.  Os ficheiros *.csv e *.json podem ser vistos como gráficos via Excel ou Python.
 
 ## Sobre as fotografias
-Para este exemplo usei 10 fotos.  
+Para este exemplo selecionei 10 fotos.  
 Foram tiradas com telemóvel seguuro manualmente, em más condições de luz, e nal enquadradas.  
 Idealmente deve ser usada uma câmara estável, sempre na mesma posição e com iluminação decente.  
 As fotos devem ser feitas a intervalos regulares.
@@ -36,5 +36,5 @@ SnippingTool\\SnippingTool.exe"
 ```
 Quando aberta, a janela da app mostra o longo título:  
 "Ferramenta de recorte de fotografias"  
-(a app "Fotos" também faz OCR mas por enquanto muito pior)  
+(a app "Fotos" também faz OCR mas por enquanto muito inferior)  
 
