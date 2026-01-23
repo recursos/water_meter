@@ -10,7 +10,7 @@ OCR de fotografias de contadores de água.
 2. Guardar as fotografias numa pasta \consumos;  
    <picture>
     <source srcset="/res/Captura de ecrã 2026-01-20 113706.png" type="image/ong">
-    <img src="/images/Captura de ecrã 2026-01-20 113706.png" alt="Fotos no folder" width="188">
+    <img src="/res/Captura de ecrã 2026-01-20 113706.png" alt="Fotos no folder" width="188">
   </picture>  
 
 4. Correr (Windows) o script Python wmeter.py;
