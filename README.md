@@ -37,12 +37,10 @@ SnippingTool\\SnippingTool.exe"
 Se a localização mudar, é necessário mudar manualmente no código!  
 
 Quando aberta, a janela da app mostra o longo título:  
-  
 "Ferramenta de recorte de fotografias"  
    <picture>
     <source srcset="/res/s_and_s_25.png" type="image/ong">
     <img src="/res/s_and_s_25.png" alt="Ferramenta de recorte" width="188">
   </picture>  
-  
 (a app "Fotos" também faz OCR mas por enquanto muito inferior)  
 
