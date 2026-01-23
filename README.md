@@ -35,7 +35,6 @@ SnippingTool\\SnippingTool.exe"
 )
 ``` 
 Se a localização mudar, é necessário mudar manualmente no código!  
-
 Quando aberta, a janela da app mostra o longo título:  
 "Ferramenta de recorte de fotografias"  
    <picture>
@@ -43,4 +42,7 @@ Quando aberta, a janela da app mostra o longo título:
     <img src="/res/s_and_s_25.png" alt="Ferramenta de recorte" width="188">
   </picture>  
 (a app "Fotos" também faz OCR mas por enquanto muito inferior)  
+O script Python abre a app "Ferramenta de recorte" e depois automaticamente vai abrindo as imagens, invocando o OCR e salvando os textos reconhecidos.  
+Para resolver imprecisões são usados alguns critérios arbitrários e adaptados ao caso específico, discutidos adiante.  
+
 
