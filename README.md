@@ -45,4 +45,5 @@ Quando aberta, a janela da app mostra o longo título:
 O script Python abre a app "Ferramenta de recorte" e depois automaticamente vai abrindo as imagens, invocando o OCR e salvando os textos reconhecidos.  
 Para resolver imprecisões são usados alguns critérios arbitrários e adaptados ao caso específico, discutidos adiante.  
 
-
+## Sobre o script Python:  
+O script Python basicamente usa as livrarias "pyautogui" e "autoit" para simular o uso do teclado imitando o que um utilizador faria para usar "Ferramenta de recorte" no OCR das fotografias do mostrador.
